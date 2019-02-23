@@ -3,3 +3,9 @@ C:\Users\maurosag.EUROPE\source\repos\Test\Test\bin\Debug\SFCheckpointFileNameGe
 C:\Users\maurosag.EUROPE\source\repos\Test\Test\obj\Debug\SFCheckpointFileNameGenerator.csproj.CoreCompileInputs.cache
 C:\Users\maurosag.EUROPE\source\repos\Test\Test\obj\Debug\SFCheckpointFileNameGenerator.exe
 C:\Users\maurosag.EUROPE\source\repos\Test\Test\obj\Debug\SFCheckpointFileNameGenerator.pdb
+C:\Users\maurosag.EUROPE\source\repos\ServiceFabricTools\Test\bin\Debug\SFCheckpointFileNameGenerator.exe.config
+C:\Users\maurosag.EUROPE\source\repos\ServiceFabricTools\Test\bin\Debug\SFCheckpointFileNameGenerator.exe
+C:\Users\maurosag.EUROPE\source\repos\ServiceFabricTools\Test\bin\Debug\SFCheckpointFileNameGenerator.pdb
+C:\Users\maurosag.EUROPE\source\repos\ServiceFabricTools\Test\obj\Debug\SFCheckpointFileNameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\maurosag.EUROPE\source\repos\ServiceFabricTools\Test\obj\Debug\SFCheckpointFileNameGenerator.exe
+C:\Users\maurosag.EUROPE\source\repos\ServiceFabricTools\Test\obj\Debug\SFCheckpointFileNameGenerator.pdb

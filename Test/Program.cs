@@ -66,6 +66,8 @@ namespace Test
 
                 sb.Append("_");
 
+                
+
                 sb.Append(CRC64.ToCrc64String(Encoding.Unicode.GetBytes(serviceInstanceName)));
 
                 sb.Append("_");
