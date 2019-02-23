@@ -1,0 +1,6 @@
+C:\Users\maurosag.EUROPE\source\repos\Test\Test\bin\Debug\Test.exe
+C:\Users\maurosag.EUROPE\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\maurosag.EUROPE\source\repos\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\maurosag.EUROPE\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\maurosag.EUROPE\source\repos\Test\Test\obj\Debug\Test.exe
+C:\Users\maurosag.EUROPE\source\repos\Test\Test\obj\Debug\Test.pdb
